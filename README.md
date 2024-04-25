@@ -16,11 +16,13 @@ During the work term, I was selected by the Office of Applied Research and Innov
 
 <h2>Since Graduating</h2>
 
+-I have begun to volunteer with a tech startup.
+
 -I have continued my education by learning new things such as Typescript, C#, and Zod
 
 -I have begun to create a railway layout builder
 
--I have also begun to explore mobile app development
+-I have begun to explore mobile app development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamo700&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
