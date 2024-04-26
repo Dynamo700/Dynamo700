@@ -1,4 +1,4 @@
-<h1>Nicholas Quigley</h1>
+<h1>Nick Quigley</h1>
 
 Hello! My name is Nicholas Quigley. I graduated from the CNA’s Accelerated Software Development program in January 2024. I enjoy learning more languages and frameworks to make myself a better and stronger developer.
 
