@@ -2,7 +2,7 @@
 
 Hello! My name is Nicholas Quigley. I graduated from the CNA’s Accelerated Software Development program in January 2024. I enjoy learning more languages and frameworks to make myself a better and stronger developer.
 
-<h2>Skills and Experience</h2>
+<h2>💻 Skills and Experience</h2>
 
 <h2>CNA</h2>
 
@@ -14,10 +14,8 @@ During the third semester, we were introduced to AWS, as well as emerging trends
 
 During the work term, I was selected by the Office of Applied Research and Innovation to be a Student Research Assistant. As a Student Research Assistant, I was given a project to work on. The project that I worked on was a react web application that used webGL to embed a game that I created in Maya into the website itself. In addition, I aided a fellow student in developing a web application that helped high school students determine what route would be best for them in the healthcare industry based on a variety of factors.
 
-<h2>Since Graduating</h2>
-
--I have begun to volunteer with a tech startup.
-
+<h2>🔭 Since Graduating</h2>
+ 
 -I have continued my education by learning new things such as Typescript, C#, and Zod
 
 -I have begun to create a railway layout builder
