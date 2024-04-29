@@ -2,9 +2,9 @@
 
 Hello! My name is Nicholas Quigley. I graduated from the CNA’s Accelerated Software Development program in January 2024. I enjoy learning more languages and frameworks to make myself a better and stronger developer.
 
-<h2>💻 Skills and Experience</h2>
+<h2>🔥 Skills and Experience</h2>
 
-<h2>CNA</h2>
+<h2>💻 CNA</h2>
 
 During my first semester, I was introduced to the fundamentals of Python, Java, Javascript, and SQL. For our final projects of that semester, we created a blackjack game in Python and Java.
 
